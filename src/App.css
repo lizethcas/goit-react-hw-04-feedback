@@ -1,0 +1,10 @@
+#root {
+  max-width: 1280px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.buttons__container {
+  margin: 15px 0;
+}
