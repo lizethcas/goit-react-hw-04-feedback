@@ -28,7 +28,7 @@ const App = () => {
         />
       </Section>
       <Section
-        title={good != 0 || bad != 0 || neutral != 0 ? "Statistiscs" : ""}
+        title={good != 0 || bad != 0 || neutral != 0 ? "Statistics" : ""}
       >
         {good != 0 || bad != 0 || neutral != 0 ? (
           <Statistics good={good} bad={bad} neutral={neutral} />
